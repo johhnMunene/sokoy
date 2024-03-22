@@ -39,7 +39,7 @@ const Login = () => {
             onChange={(e) => setPassword(e.target.value)}
           />
         </div>
-      </div>src/login.js
+      </div>
 
       <div className="inputs">
         <div className="input">
